@@ -32,4 +32,4 @@
     $ docker-compose build
     $ docker-compose run --rm app yarn install
     $ docker-compose up
-# TS_BrashUp
+# TypeScript_BrashUp
